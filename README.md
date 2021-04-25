@@ -6,7 +6,7 @@ I am having fun being involved in the data community, first, as an early evangel
 
 Also, I enjoy being an O'Reilly author and trainer on subjects like Distributed Data Science, Data Lineage Essentials, Data Governance, and Machine Learning Model Monitoring.
 
-Last but not least, I am cofounder and CEO of [Kensu](https://kensu.io), bringing the Data Intelligence Management (DIM) Platform for data-driven companies to leverage AI sustainably, with Analytics Observability capability coupled to a Data Usage Catalog. Although the Kensu Platform is proprietarty, you can find our open source projects on this [repo](https://github.com/kensuio-oss/).
+Last but not least, I am cofounder and CEO of [Kensu](https://kensu.io), bringing the Data Intelligence Management (DIM) Platform for data-driven companies to leverage AI sustainably, with Analytics Observability capability coupled to a Data Usage Catalog. Although the Kensu Platform is proprietary, you can find our open source projects on this [repo](https://github.com/kensuio-oss/).
 
 
 <!--
